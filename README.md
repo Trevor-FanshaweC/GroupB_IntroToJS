@@ -1,1 +1,1 @@
-# GroupB_IntroToJS
+# My Awesome SVG Project
